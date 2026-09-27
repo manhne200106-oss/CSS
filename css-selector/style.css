@@ -1,0 +1,31 @@
+/* Element selector */
+body {
+    background-color: #f2f2f2;
+}
+
+/* ID selector */
+#title {
+    text-align: center;
+    color: blue;
+}
+
+/* Class selector */
+.description {
+    color: #333;
+}
+
+/* Grouping selector */
+h1, p {
+    font-family: Arial, sans-serif;
+}
+
+/* Element selector */
+li {
+    margin: 5px;
+}
+
+/* Pseudo-class */
+button:hover {
+    background-color: blue;
+    color: white;
+}
